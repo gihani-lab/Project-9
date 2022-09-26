@@ -1,5 +1,7 @@
- <svg width="500" height="500" viewbox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="500"  fill="none" xmlns="http://www.w3.org/2000/svg">
+   <symbol id="magnifying-glass"  viewbox="0 0 500 500">
         <circle class="main-circle" cx="200" cy="200" r=" 100" fill="none" stroke="black" stroke-width="20"></circle>
         <polyline points=" 250,290,300,370" stroke="black" stroke-width="20" stroke-linecap="round">
         </polyline>
-    </svg>
+		  </symbol>
+</svg>
